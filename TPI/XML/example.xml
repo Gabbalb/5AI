@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rubrica>
+    <contatto genere = "M">
+        <nome>luca</nome>
+        <cognome>zanotti</cognome>
+        <telefono>3337697622</telefono>
+        <eta> &lt; 18</eta>
+    </contatto>
+    <contatto genere = "M">
+        <nome>gabriele</nome>
+        <cognome>balbiani</cognome>
+        <telefono>3337697622</telefono>
+        <eta>18</eta>
+    </contatto>
+    <contatto genere = "F">
+        <nome>simonetta</nome>
+        <cognome>tebaldini</cognome>
+        <telefono>3337697622</telefono>
+        <eta>18</eta>
+    </contatto>
+</rubrica>

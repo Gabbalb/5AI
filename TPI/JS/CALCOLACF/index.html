@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Calcola codice fiscale</title>
+</head>
+<body>
+<h1>Calcola Codice Fiscale</h1>
+<label for="nome">Nome</label>
+<input type="text" id="nome">
+<label for="cognome">Cognome</label>
+<input type="text" id="cognome">
+<label for="data">Data</label>
+<input type="date" id="data">
+<label for="sesso">Sesso</label>
+<select id="sesso">
+    <option value="0">M</option>
+    <option value="30">F</option>
+</select>
+<label for="luogo">Luogo di nascita</label>
+<select id="luogo">
+    <option>Brescia</option>
+    <option>Bergamo</option>
+    <option>Milano</option>
+    <option>Foggia</option>
+</select>
+<button id="btn" onclick="calcola()">Calcola</button>
+<script src="main.js"></script>
+</body>
+</html>
